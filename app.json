@@ -41,7 +41,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "basic"
+      "size": "standard-1x"
     },
     "worker": {
       "quantity": 1,
